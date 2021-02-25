@@ -180,16 +180,15 @@ echo $email;
 echo "<br>";
 echo $password;
 echo "<br>";
+echo $conpassword;
+echo "<br>";
 echo $name;
 echo "<br>";
 echo $dateofbirth;
 echo "<br>";
 echo $gender;
 echo "<br>";
-echo $degree;
-echo "<br>";
-echo $bloodgroup;
-echo "<br>";
+
 
 
 ?>
